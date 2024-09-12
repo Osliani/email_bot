@@ -1,0 +1,5 @@
+inbox/
+node/
+*.json
+__pycache__
+.env
